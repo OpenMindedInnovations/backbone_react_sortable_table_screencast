@@ -1,4 +1,4 @@
-Backbone React Sortable Table Screencast
+Backbone React Sortable Table
 =============
 
 Blog post: http://www.openmindedinnovations.com/blogs/backbone-react-component-with-middleman
